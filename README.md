@@ -40,17 +40,15 @@ The objective of this project is to analyze the transportation data provided by 
 ###  Page 1: Revenue & Customer Performance
 
 **KPI Cards**
-- Total Revenue: £8.91M  
-- Total Unique Customers: 4,339  
-- Total Quantity Sold: 5.18M  
-- Total Invoices Issued: 18.54K  
+- Total Value Transported: $108.9T  
+- Number of Freight Transported: 39M  
+ 
 
 **Visuals**
-- Sales Trend (Monthly)
-- Sales by Day of the Week
-- Top 5 Products by Revenue
-- Top Customers by Revenue
-- Sales by Country
+- Mode of Transportation by Value
+- Trend of Value by Year
+- Shipping weight by Month and Country 
+- Value by USA State and Mode of Transportation
 
 ---
 
