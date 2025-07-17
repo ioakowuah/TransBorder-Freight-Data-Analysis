@@ -27,15 +27,11 @@ The objective of this project is to analyze the transportation data provided by 
 
 ##  Data Preprocessing Steps
 
-- Removed cancelled orders (Invoice numbers starting with "C").
-- Eliminated rows with missing `CustomerID` values.
-- Filtered out rows with StockCodes like "POST", "S", and "M" (postage, samples, manuals).
-- Removed transactions with zero or negative quantity and unit price.
-- Split `InvoiceDate` into separate columns for Date, Month, Year, and Hour.
+- Extract and combine csv data files into a folder for import into PowerBI.
+- Transform value coded categorical columns. Eg. `MONTH` values of 1 into January, 2 into February, etc.
 - Created calculated fields:
-  - **Total Sales** = Quantity × Unit Price
-  - **Customer Type** = New or Repeat (based on unique Invoice counts)
-  - **Order Status** = Cancelled or Successful
+  - **Total Value of goods Transported** = Sum(Values)
+  - **Number of Transportations** = Count(Transportation modes)
 
 ---
 
