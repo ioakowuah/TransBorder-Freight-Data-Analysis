@@ -41,8 +41,8 @@ The objective of this project is to analyze the transportation data provided by 
 ###  Page 1: Revenue & Customer Performance
 
 **KPI Cards**
-- Total Value Transported: $108.9T  
-- Number of Freight Transported: 39M  
+- Total Value Transported: **$108.9T**  
+- Number of Freight Transported: **39M**  
  
 
 **Visuals**
@@ -56,12 +56,10 @@ The objective of this project is to analyze the transportation data provided by 
 ##  Key Insights
 
 ### Sales & Revenue
--  Truck is the most used mode of transporting goods.
--  2022 is the year highest value of goods were transported and it has declined for 2023 and 2024.
--  Texas, Michigan, California, Illinois are the top 4 USA states that transported goods. Texas the leading state transported goods worth $15.8T.
--  January and March is the month where heavy weight is transported and Canada is the country leading with these heavy transportation benchedmarked with Mexico. 
-
-
+-  **Truck** is the most used mode of transporting goods.
+-  **2022** is the year highest value of goods were transported and it has declined for **2023** and **2024**.
+-  **Texas, Michigan, California, Illinois** are the top 4 USA states that transported goods. Texas the leading state transported goods worth $15.8T.
+-  **January and March** is the month where heavy weight is transported and Canada is the country leading with these heavy transportation benchedmarked with Mexico. 
 
 ---
 
@@ -93,9 +91,11 @@ This analysis showcases the power of clean transaction data in uncovering custom
 
 **Isaac Owusu Akowuah**  
 Data Analyst | Power BI Developer | Power BI & Excel Specialist  
-- [LinkedIn](https://www.linkedin.com/in/adeniyioluwademilade)  
-- [Twitter](https://twitter.com/demibolt_)  
-- Email: ioakowuah@gmail.com  
+- [Website](https://ioakowuah.wixsite.com/isaacowusuakowuah)
+- [LinkedIn](https://www.linkedin.com/in/isaac-owusu-akowuah-88337667)
+- [Github](https://github.com/ioakowuah)
+- Email: ioakowuah@gmail.com
+
 
 
 
