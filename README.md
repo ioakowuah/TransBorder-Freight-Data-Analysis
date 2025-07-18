@@ -20,7 +20,7 @@ The objective of this project is to analyze the transportation data provided by 
 - what is the number of freight movement?
 - What is the most used mode of transportation of goods?
 - What is the trend of the value of goods transported over the years?
-- What is top 5 states in the USA with high value of goods transported and by what mode of transportation?
+- What is top 5 states in the USA with high value of goods transported and by what type of trade?
 - What is the weight of goods transported across the month and country?
 - Provide Data-Driven Recommendations.
 
@@ -49,33 +49,19 @@ The objective of this project is to analyze the transportation data provided by 
 - Mode of Transportation by Value
 - Trend of Value by Year
 - Shipping weight by Month and Country 
-- Value by USA State and Mode of Transportation
+- Value by USA State and Trade Type
 
 ---
 
 ##  Key Insights
 
 ### Sales & Revenue
-- **Peak Month:** November 2011 (£1.16M), followed by October 2011.
-- **Decline:** December 2011 revenue fell below December 2010, suggesting a seasonal dip or issue.
+-  Truck is the most used mode of transporting goods.
+-  2022 is the year highest value of goods were transported and it has declined for 2023 and 2024.
+-  Texas, Michigan, California, Illinois are the top 4 USA states that transported goods. Texas the leading state transported goods worth $15.8T.
+-  January and March is the month where heavy weight is transported and Canada is the country leading with these heavy transportation benchedmarked with Mexico. 
 
-### Product Performance
-- **Top Product (Revenue):** *Paper Craft, Little Birdie* — £168.75K
-- **Top Product (Quantity):** *Paper Craft, Little Birdie* — 81K units
 
-### Customer Loyalty
-- **Repeat Customers:** 91.57%
-- **New Customers:** 8.43%
-- Strong retention, but a narrow acquisition funnel.
-
-### Operational Efficiency
-- **Successful Orders:** 98.29%
-- **Cancelled Orders:** 1.71%
-- Excellent fulfilment and stock handling rate.
-
-### Geography
-- **UK:** £7.3M in sales and 4.2M items sold.
-- **Other top countries:** Netherlands, Germany, EIRE, and France.
 
 ---
 
