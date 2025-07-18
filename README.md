@@ -16,11 +16,12 @@ The objective of this project is to analyze the transportation data provided by 
 
 ##  Objectives of the Analysis
 
-- Uncover Freight Movement Patterns.
-- Identify Operational Inefficiencies.
-- Analyze Environmental Impact.
-- Safety and Risk Assessment.
-- Economic Disruptions.
+- What is the total value of goods transported?
+- what is the number of freight movement?
+- What is the most used mode of transportation of goods?
+- What is the trend of the value of goods transported over the years?
+- What is top 5 states in the USA with high value of goods transported and by what mode of transportation?
+- What is the weight of goods transported across the month and country?
 - Provide Data-Driven Recommendations.
 
 ---
