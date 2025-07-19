@@ -90,7 +90,7 @@ This analysis was conducted using theCRISP-DMmethodology (Cross-Industry Standar
 ##  About the Analyst
 
 **Isaac Owusu Akowuah**  
-Data Analyst | Power BI Developer | Power BI & Excel Specialist  
+Data Analyst | Power BI Developer | Machine Learning Engineer 
 - [Website](https://ioakowuah.wixsite.com/isaacowusuakowuah)
 - [LinkedIn](https://www.linkedin.com/in/isaac-owusu-akowuah-88337667)
 - [Github](https://github.com/ioakowuah)
