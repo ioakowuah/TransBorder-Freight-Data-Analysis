@@ -2,7 +2,7 @@
 The objective of this project is to analyze the transportation data provided by the Bureau of Transportation Statistics (BTS) to uncover insights related to the efficiency, safety, and environmental impacts of freight transportation across various modes (road, rail, air, and water). Using this data, the goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems.
 
 
-![Maison Mart Retail Report - Income   Customer Analytics](https://github.com/ioakowuah/TransBorder-Freight-Data-Analysis/blob/main/DASHBOARD%20PICTURE.png)
+![TransBorder-Freight-Data-Analysis](https://github.com/ioakowuah/TransBorder-Freight-Data-Analysis/blob/main/github2.png)
 
 
 ##  Project Details
