@@ -75,7 +75,7 @@ The objective of this project is to analyze the transportation data provided by 
 
 ##  Conclusion
 
-This analysis showcases the power of clean transaction data in uncovering customer patterns and revenue opportunities. With high customer retention and clear product winners, the business is well-positioned to scale. The insights offer a path for enhanced decision-making in marketing, inventory, and fulfilment operations.
+This analysis was conducted using theCRISP-DMmethodology (Cross-Industry Standard Process for Data Mining), ensuring a structured, iterative approach that drives valuable business insights and leads to practical recommendations. Data wrangling, visualization, and thorough documentation will be integral to the process to ensure the insights are communicated effectively to stakeholders..
 
 ---
 
