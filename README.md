@@ -82,7 +82,7 @@ This analysis showcases the power of clean transaction data in uncovering custom
 ##  References & Resources
 
 - [Dataset:](https://azubiafrica-my.sharepoint.com/:u:/g/personal/emmanuel_agyen_azubiafrica_org/EYddQyNqYidPuJW6qaNFxcABYaVfF-kZ14K2pJfHjKWmmg?e=wz822N)
-- GitHub Repository: [Maison Mart Retail Report](https://github.com/Demibolt007/Maison-Mart-Retail-Report-Income-Customer-Analytics)
+- [GitHub Repository:]((https://github.com/ioakowuah/TransBorder-Freight-Data-Analysis/blob/main/README.md))
 - Power BI Desktop
 
 ---
