@@ -38,8 +38,6 @@ The objective of this project is to analyze the transportation data provided by 
 
 ##  Dashboard Overview
 
-###  Page 1: Revenue & Customer Performance
-
 **KPI Cards**
 - Total Value Transported: **$108.9T**  
 - Number of Freight Transported: **39M**  
@@ -55,21 +53,23 @@ The objective of this project is to analyze the transportation data provided by 
 
 ##  Key Insights
 
-### Sales & Revenue
 -  **Truck** is the most used mode of transporting goods.
 -  **2022** is the year highest value of goods were transported and it has declined for **2023** and **2024**.
 -  **Texas, Michigan, California, Illinois** are the top 4 USA states that transported goods. Texas the leading state transported goods worth $15.8T.
--  **January and March** is the month where heavy weight is transported and Canada is the country leading with these heavy transportation benchedmarked with Mexico. 
+-  **January and March** is the month where heavy weight is transported and Canada is the country leading with these heavy transportation benchedmarked with Mexico.
+-  **Canada** is the top trading partner for heavy goods, surpassing Mexico.
 
 ---
 
 ##  Recommendations
 
-- **Boost New Customer Acquisition**: Launch referral campaigns or targeted ads to expand reach.
-- **Explore Saturday Sales Opportunity**: No transactions were recorded on Saturdays — investigate potential platform or operational limitations.
-- **Double Down on High-Movers**: Products with high quantity movement but lower revenue may benefit from bundling or upselling.
-- **Strengthen International Strategy**: Scale marketing and fulfilment in high-performing non-UK countries.
-- **Retain Top Customers**: Personalised loyalty or incentive programmes for top buyers like Customer ID 14646.
+- **Invest in infrastructure support for road transport**: such as improving highways and border facilities.
+- **Promote digital logistics tools**: To increase trucking efficiency, promote the use of route optimization systems.
+- **Root-cause analysis**: Conduct a root-cause analysis (e.g., cost of transportation, demand decline, geopolitical disruptions).
+- **Policy planning**: Policy planning around these top states (Texas, Michigan, California, Illinois) to streamline trade corridors.
+- **Bottlenecks or missed opportunities**: Benchmark other states against Texas to identify bottlenecks or missed opportunities.
+- **Plan maintenance or upgrades**: Plan maintenance or upgrades outside of peak months to minimize disruption.
+- **Bilateral trade and infrastructure**: Focus bilateral trade and infrastructure discussions more heavily with Canada.
 
 ---
 
@@ -81,7 +81,7 @@ This analysis showcases the power of clean transaction data in uncovering custom
 
 ##  References & Resources
 
-- Dataset: [Kaggle – E-Commerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
+- [Dataset:](https://azubiafrica-my.sharepoint.com/:u:/g/personal/emmanuel_agyen_azubiafrica_org/EYddQyNqYidPuJW6qaNFxcABYaVfF-kZ14K2pJfHjKWmmg?e=wz822N)
 - GitHub Repository: [Maison Mart Retail Report](https://github.com/Demibolt007/Maison-Mart-Retail-Report-Income-Customer-Analytics)
 - Power BI Desktop
 
