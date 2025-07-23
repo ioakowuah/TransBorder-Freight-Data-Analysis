@@ -4,7 +4,9 @@ The objective of this project is to analyze the transportation data provided by 
 
 ![TransBorder-Freight-Data-Analysis](https://github.com/ioakowuah/TransBorder-Freight-Data-Analysis/blob/main/github2.png)
 
-![PowerBI Report File](https://drive.google.com/file/d/1TLaFSjVzfS4WwVOVD6nDWury2mfWMkSw/view?usp=drive_link)
+- [PowerBI Report File](https://drive.google.com/file/d/1TLaFSjVzfS4WwVOVD6nDWury2mfWMkSw/view?usp=drive_link)
+
+
 
 ##  Project Details
 
