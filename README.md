@@ -2,7 +2,7 @@
 The objective of this project is to analyze the transportation data provided by the Bureau of Transportation Statistics (BTS) to uncover insights related to the efficiency, safety, and environmental impacts of freight transportation across various modes (road, rail, air, and water). Using this data, the goal is to identify inefficiencies, recognize patterns, and propose actionable solutions to improve the overall performance and sustainability of transportation systems.
 
 
-![TransBorder-Freight-Data-Analysis](https://github.com/ioakowuah/TransBorder-Freight-Data-Analysis/blob/main/github2.png)
+![TransBorder-Freight-Data-Analysis](https://github.com/ioakowuah/TransBorder-Freight-Data-Analysis/blob/main/Github%20Power%20BI%20Pic.png)
 
 - [PowerBI Report File](https://drive.google.com/file/d/1TLaFSjVzfS4WwVOVD6nDWury2mfWMkSw/view?usp=drive_link)
 
