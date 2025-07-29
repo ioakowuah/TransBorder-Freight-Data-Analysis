@@ -49,7 +49,7 @@ The objective of this project is to analyze the transportation data provided by 
 **Visuals**
 - Mode of Transportation by Value
 - Trend of Value by Year
-- Shipping weight by Month and Country 
+- Shipping weight by Month and Country(Canada and Mexico) 
 - Value by USA State and Trade Type
 
 ---
