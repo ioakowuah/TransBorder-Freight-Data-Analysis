@@ -24,7 +24,7 @@ The objective of this project is to analyze the transportation data provided by 
 - What is the most used mode of transportation of goods?
 - What is the trend of the value of goods transported over the years?
 - What is top 4 states in the USA with high value of goods transported and by what type of trade?
-- What is the weight of goods transported across the month and country?
+- What is the weight of goods transported across the month and country(Canada and Mexico)?
 - Provide Data-Driven Recommendations.
 
 ---
